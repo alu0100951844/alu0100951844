@@ -46,6 +46,6 @@
 * Inglés B1.
 
 ## **ACTUALMENTE**
-En este momento estoy realizando el máster en formación del profesorado ofertado por la Universidad de La Laguna. A través del siguiente enlace se pude acceder a un documento donde expongo mi experiencia en dicho máster hasta el momento:
+En este momento estoy realizando el máster en formación del profesorado ofertado por la Universidad de La Laguna. A través del siguiente enlace se puede acceder a un documento donde expongo mi experiencia en dicho máster hasta el momento:
 
 <a title="Enlace" href="https://github.com/ULL-MFP-AET-2122/aprender-markdown-yeray_exposito_garcia_alu0100951844/blob/main/master.md"><img src="Foto_archivo.png" width="100" height="100"/></a>
