@@ -9,3 +9,10 @@
 * Correo: yeray929@gmail.com
 * Teléfono: 690 900 650
 * [Enlace a mi perfil en el campus virtual de la ULL](https://campusdoctoradoyposgrado2122.ull.es/user/profile.php?id=1744)
+
+## **FORMACIÓN**
+
+| Logro      | Universidad | Año | Nota |
+| ---------- | ----------- | --- | ---- |
+| Grado en ingeniería informática | Universidad de La Laguna | 2015-2020 | 7,83 |
+| Máster en ciberseguridad e inteligencia de datos | Universidad de La Laguna | 2020-2021 | 9,28|
