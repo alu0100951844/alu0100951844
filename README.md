@@ -11,8 +11,13 @@
 * [Enlace a mi perfil en el campus virtual de la ULL](https://campusdoctoradoyposgrado2122.ull.es/user/profile.php?id=1744)
 
 ## **FORMACIÓN**
-
 | Logro      | Universidad | Año | Nota |
 | ---------- | ----------- | --- | ---- |
 | Grado en ingeniería informática | Universidad de La Laguna | 2015-2020 | 7,83 |
 | Máster en ciberseguridad e inteligencia de datos | Universidad de La Laguna | 2020-2021 | 9,28|
+
+## **EXPERIENCIA PROFESIONAL**
+| Empresa      | Actividad | Año | Descripción |
+| ---------- | ----------- | --- | ---- |
+| INERZA, S.A | Desarrollo de aplicaciones web mediante ASP.NET Core y creación de librerías en Java. | 2019 | Prácticas externas |
+| ITOP | Desarrollo de un proyecto para el procesamiento y análisis de datos. | 2021 | Prácticas externas |
