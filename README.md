@@ -40,3 +40,7 @@
 3. Nociones básicas en el desarrollo de aplicaciones web, tanto en Backend (Node.js) como Frontend (Angular, Bootstrap).
 4. Conocimientos básicos sobre Visual Studio y el framework ASP.NET Core.
 5. Conocimientos básicos sobre Apache Druid, Apache Airflow y Apache Superset.
+
+## **IDIOMAS**
+* Español nativo.
+* Inglés B1.
