@@ -44,3 +44,6 @@
 ## **IDIOMAS**
 * Español nativo.
 * Inglés B1.
+
+## **ACTUALMENTE**
+En este momento estoy realizando el máster en formación del profesorado ofertado por la Universidad de La Laguna. A través del siguiente enlace se pude acceder a un documento donde expongo mi experiencia en dicho máster hasta el momento:
