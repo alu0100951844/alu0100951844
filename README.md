@@ -3,7 +3,7 @@
 # **CURRICULUM VITAE**
 <img src="Foto.png" width=200 height=300>
 
-> Soy ingeniero informático y he concluido la titulación recientemente. Tengo experiencia en el manejo de diferentes lenguajes de programación, sobre todo en aquellos relacionados con la programación web. También poseo conocimientos básicos sobre ciberseguridad e inteligencia de datos.
+> Soy ingeniero informático y he concluido la titulación recientemente. Tengo experiencia en el manejo de diferentes lenguajes de programación, sobre todo en aquellos relacionados con la programación web. También poseo conocimientos básicos sobre ciberseguridad e inteligencia de datos. :relaxed::relaxed:
 
 ## **CONTACTO**
 * Correo: yeray929@gmail.com
