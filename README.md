@@ -4,3 +4,8 @@
 <img src="Foto.png" width=200 height=300>
 
 > Soy ingeniero informático y he concluido la titulación recientemente. Tengo experiencia en el manejo de diferentes lenguajes de programación, sobre todo en aquellos relacionados con la programación web. También poseo conocimientos básicos sobre ciberseguridad e inteligencia de datos.
+
+## **CONTACTO**
+* Correo: yeray929@gmail.com
+* Teléfono: 690 900 650
+* [Enlace a mi perfil en el campus virtual de la ULL](https://campusdoctoradoyposgrado2122.ull.es/user/profile.php?id=1744)
