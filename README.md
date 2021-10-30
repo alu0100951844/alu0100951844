@@ -21,3 +21,22 @@
 | ---------- | ----------- | --- | ---- |
 | INERZA, S.A | Desarrollo de aplicaciones web mediante ASP.NET Core y creación de librerías en Java. | 2019 | Prácticas externas |
 | ITOP | Desarrollo de un proyecto para el procesamiento y análisis de datos. | 2021 | Prácticas externas |
+
+## **APTITUDES**
+1. Aptitudes en matemáticas.
+2. Lenguajes de programación: Python, C/C++, Java, Ruby, R (y más).
+    * Código inline:
+
+        `function fancyAlert(arg){ if(arg) { $.facebox({div:'#foo'}) } }`
+    * Código con varias líneas y colores:
+        ```javascript
+        function fancyAlert(arg) {
+          if(arg) {
+            $.facebox({div:'#foo'})
+          }
+        }
+        ```
+
+3. Nociones básicas en el desarrollo de aplicaciones web, tanto en Backend (Node.js) como Frontend (Angular, Bootstrap).
+4. Conocimientos básicos sobre Visual Studio y el framework ASP.NET Core.
+5. Conocimientos básicos sobre Apache Druid, Apache Airflow y Apache Superset.
