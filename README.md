@@ -9,6 +9,7 @@
 * Correo: yeray929@gmail.com
 * Teléfono: 690 900 650
 * [Enlace a mi perfil en el campus virtual de la ULL](https://campusdoctoradoyposgrado2122.ull.es/user/profile.php?id=1744)
+* [Enlace a mi perfil de github](https://github.com/alu0100951844)
 
 ## **FORMACIÓN**
 | Logro      | Universidad | Año | Nota |
